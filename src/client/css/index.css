@@ -1,0 +1,44 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css");
+
+body {
+	background: #f1f2f6;
+}
+
+.top {
+	background: #2f3542;
+}
+
+.logo {
+	font-size: 60px !important;
+}
+
+.dm-list {
+	max-height: 200px;
+	height:200px;
+	overflow: auto;
+	background: #fff;
+}
+
+.dm-item {
+	border-radius: 5px;
+}
+
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+}
+
+.dm-content {
+	max-width: 350px;
+	overflow: hidden;
+}
+
+.textarea {
+	resize: none;
+}
+
+.hidden {
+	display: none;
+}
